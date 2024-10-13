@@ -1,0 +1,44 @@
+﻿  BankProject_OOP.cpp
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsString.h(33,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsString.h(46,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsString.h(149,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsString.h(223,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsString.h(239,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsString.h(273,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsUtil.h(59,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsUser.h(155,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject_OOP.cpp')
+  C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsUser.h(30,9):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsInputValidate.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsBankClient.h(167,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject_OOP.cpp')
+  C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsBankClient.h(139,9):
+  see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsTotalBalancesScreen.h(61,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsTotalBalancesScreen.h(63,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BankProject_OOP.cpp')
+  
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsBankClient.h(284,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\clsUser.h(299,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankProject_OOP.vcxproj -> C:\Users\lenovo\Desktop\ProgrammingAdvicesFiles\ProjectsFiles\BankProject_OOP\x64\Debug\BankProject_OOP.exe
